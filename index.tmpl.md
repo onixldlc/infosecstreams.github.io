@@ -9,6 +9,10 @@ Please contribute missing streamers or errors via a [pull request](https://githu
 Online 🟢 | Streamer | Twitch | Other links
 --: | ---: | --- | :---
 
+### ⏸️ Inactive Streamers
+
+The list of inactive (no streams in last 14 days) streamers can be found [here](https://infosecstreams.github.io/inactive).
+
 ### Useful links
 
 Link | Description
